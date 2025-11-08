@@ -1,65 +1,48 @@
-<div align="center">
+# 👩‍💻 Mariam Kanj
 
-# Mariam Kanj
+**Full-Stack Developer | AI Enthusiast | UI/UX Designer**
 
-**Full-Stack Web Developer | AI Enthusiast | UI/UX Designer**
-
-Building scalable, secure, and user-centered web and mobile applications — with a strong focus on performance, modern design, and clean architecture.
+Crafting scalable, secure, and user-focused web applications with modern technologies and a passion for clean architecture.
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-🎓 Computer Science graduate at **Beirut Arab University (BAU)**  
-💻 Passionate about **Full-Stack Development, AI Integration, and Modern Web Technologies**  
-🚀 Focused on crafting efficient, elegant, and maintainable solutions  
-
-</div>
+🎓 Computer Science graduate from **Beirut Arab University (BAU)**  
+💻 Interested in **Full-Stack Development, AI Integration, and UI/UX Design**  
+🚀 Dedicated to building efficient, maintainable, and visually appealing digital experiences  
 
 ---
 
 ### 🧩 Tech Stack
 
-#### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,cs,dart" />
-</p>
+#### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=js,ts,php,cs,dart" alt="Languages" />
 
-#### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,flutter,dotnet" />
-</p>
+#### ⚙️ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,flutter,dotnet" alt="Frameworks" />
 
-#### 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,vercel,figma,tailwind,vscode" />
-</p>
+#### 🗄️ Databases & Tools  
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,vercel,figma,tailwind,vscode" alt="Tools" />
 
 ---
 
-<div align="center">
-
-### 🤝 Connect With Me
+### 🤝 Connect With Me  
 
 <a href="mailto:kanjmariam696@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/mariamkanj">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 ---
 
-### 🌐 My Portfolio
-
+### 🌐 Portfolio  
 <a href="https://mariam-portfolio-zeta.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
-</div>
 
 ---
 
-<p align="center">
-  <i>"Turning ideas into elegant, functional, and impactful solutions."</i>
-</p>
+> “Turning ideas into elegant, functional, and meaningful experiences.”
