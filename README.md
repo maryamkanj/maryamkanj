@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maryamkanj/maryamkanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mariam Kanj
 
-Here are some ideas to get you started:
+**Full-Stack Web Developer | AI Enthusiast | UI/UX Designer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable, secure, and user-centered web and mobile applications — with a strong focus on performance, modern design, and clean architecture.
+
+---
+
+### 🧠 About Me
+
+🎓 Computer Science graduate at **Beirut Arab University (BAU)**  
+💻 Passionate about **Full-Stack Development, AI Integration, and Modern Web Technologies**  
+🚀 Focused on crafting efficient, elegant, and maintainable solutions  
+
+</div>
+
+---
+
+### 🧩 Tech Stack
+
+#### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,cs,dart" />
+</p>
+
+#### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,flutter,dotnet" />
+</p>
+
+#### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,vercel,figma,tailwind,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamkanj&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamkanj&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+<div align="center">
+
+### 🤝 Connect With Me
+
+<a href="mailto:kanjmariam696@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/mariamkanj">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/mariamkanj">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+---
+
+### 🌐 My Portfolio
+
+<a href="https://mariam-portfolio-zeta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into elegant, functional, and impactful solutions."</i>
+</p>
