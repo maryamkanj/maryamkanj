@@ -37,15 +37,6 @@ Building scalable, secure, and user-centered web and mobile applications — wit
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamkanj&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamkanj&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 <div align="center">
 
 ### 🤝 Connect With Me
