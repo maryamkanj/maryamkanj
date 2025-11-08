@@ -47,9 +47,6 @@ Building scalable, secure, and user-centered web and mobile applications — wit
 <a href="https://linkedin.com/in/mariamkanj">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/mariamkanj">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 ---
 
