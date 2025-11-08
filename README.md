@@ -1,4 +1,4 @@
-# 👩‍💻 Mariam Kanj
+#  Mariam Kanj
 
 **Full-Stack Developer | AI Enthusiast | UI/UX Designer**
 
