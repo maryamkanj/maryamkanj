@@ -1,12 +1,12 @@
-#  Mariam Kanj
+# Mariam Kanj
 
-**Full-Stack Developer | AI Enthusiast | UI/UX Designer**
+**Full-Stack Developer | AI Enthusiast | UI/UX Designer**  
 
 Crafting scalable, secure, and user-focused web applications with modern technologies and a passion for clean architecture.
 
 ---
 
-###  About Me
+### About Me
 
 🎓 Computer Science graduate from **Beirut Arab University (BAU)**  
 💻 Interested in **Full-Stack Development, AI Integration, and UI/UX Design**  
@@ -32,15 +32,16 @@ Crafting scalable, secure, and user-focused web applications with modern technol
 <a href="mailto:mariam.kanj.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/mariamkanj">
+<a href="https://linkedin.com/in/mariamkanj" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 ---
 
 ### 🌐 Portfolio  
-<a href="https://mariamkanj.netlify.app/" target="_blank">
-</a>
+
+Check out my projects and work here:  
+[**Visit My Portfolio**](https://mariamkanj.netlify.app/) 🔗
 
 ---
 
