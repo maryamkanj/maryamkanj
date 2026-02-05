@@ -29,7 +29,7 @@ Crafting scalable, secure, and user-focused web applications with modern technol
 
 ### 🤝 Connect With Me  
 
-<a href="mailto:kanjmariam696@gmail.com">
+<a href="mailto:mariam.kanj.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/mariamkanj">
@@ -39,8 +39,7 @@ Crafting scalable, secure, and user-focused web applications with modern technol
 ---
 
 ### 🌐 Portfolio  
-<a href="https://mariam-portfolio-zeta.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://mariamkanj.netlify.app/" target="_blank">
 </a>
 
 ---
