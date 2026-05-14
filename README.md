@@ -74,7 +74,7 @@ Junior AI Engineer and full-stack developer building LLM-powered applications an
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-maryamkanj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamkanj)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam_Kanj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mariamkanj))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam_Kanj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mariamkanj)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-mariam.kanj.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariam.kanj.dev@gmail.com)
 
